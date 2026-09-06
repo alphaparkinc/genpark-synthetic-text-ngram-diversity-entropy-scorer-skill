@@ -1,0 +1,12 @@
+{
+  "name": "genpark-synthetic-text-ngram-diversity-entropy-scorer-skill",
+  "version": "1.0.0",
+  "description": "Distinct-N ngram diversity ratio and Shannon entropy evaluator detecting model mode collapse and repetitive generation loops.",
+  "category": "AI Synthetic Data & Hallucination Benchmarks",
+  "runtime": "python3",
+  "entrypoint": "client.py",
+  "author": "GenPark AI",
+  "repository": "https://github.com/alphaparkinc/genpark-synthetic-text-ngram-diversity-entropy-scorer-skill",
+  "verified": true,
+  "stars": 8
+}
